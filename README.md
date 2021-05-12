@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### Olá, eu sou a Daniela! :sunrise:
-Sou Engenheira e apaixonada por tecnologia. :heart:
+I am an Engineer and I love technology and how it can transform lives.. :heart:
 </br></br>
-Estou iniciando minha  transição de carreira no mundo da tecnologia .Sou também Estudante de Desenvolvimento de Software e no momento estou aprendendo HTML, CSS e Javascript. 
+I am starting my career transition in the world of technology. I am also studying Software Development  and at this moment I am learning HTML, CSS and Javascript.
 </br>
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danipez2014&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danipez2014&layout=compact=true&theme=highcontrast)](https://github.com/danipez2014/github-readme-stats) 
