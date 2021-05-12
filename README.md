@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Olá, eu sou a Daniela! :sunrise:
+### Hello, my name is Daniela! :sunrise:
 I am an Engineer and I love technology and how it can transform lives.. :heart:
 </br></br>
 I am starting my career transition in the world of technology. I am also studying Software Development  and at this moment I am learning HTML, CSS and Javascript.
