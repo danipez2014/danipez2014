@@ -12,7 +12,7 @@ Estou iniciando minha  transição de carreira no mundo da tecnologia .Sou tamb�
 </br>
 ##
 
-<p> CONTATO </p>
+### My Contacts!
 
 <a href="https://www.linkedin.com/in/daniela-pez/" target="_blank">
  
