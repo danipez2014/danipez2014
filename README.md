@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 ### Hello, my name is Daniela! :sunrise:
 I am an Engineer and I love technology and how it can transform lives.. :heart:
