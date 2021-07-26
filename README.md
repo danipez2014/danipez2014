@@ -3,7 +3,8 @@
 ### Hello, my name is Daniela! :sunrise:
 I am an Engineer and I love technology and how it can transform lives.. :heart:
 </br></br>
-I am starting my career transition in the world of technology. I am also studying Software Development  and at this moment I am learning HTML, CSS and Javascript.
+Sou profissional da área de Engenharia especialista em Engenharia de Produto , Qualidade e Black-Belt ,em transição de carreira para área de tecnologia. Durante 25 anos, atuei nas frentes de DEsenvolvimento de Produto e Gereniamento de Projetos ,Qualidade,Desenvolvimento de fornecedores e Manufatura em industria automobilistica e em 2020 iniciei minha formação na área de tecnologia, para me tornar um .NET Back-end Developer.
+Tenho dedicado meus estudos em HTML,CSS,Java-Script e React  e busco criar uma relação com minhas experiências nas áreas de liderança de pessoas e inovação para alavancar minha transição..
 </br>
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danipez2014&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danipez2014&layout=compact=true&theme=highcontrast)](https://github.com/danipez2014/github-readme-stats) 
