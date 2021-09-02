@@ -3,8 +3,13 @@
 ### Hello, my name is Daniela! :sunrise:
 I am an Engineer and I love technology and how it can transform lives.. :heart:
 </br></br>
-Sou profissional da área de Engenharia especialista em Engenharia de Produto , Qualidade e Black-Belt ,em transição de carreira para área de tecnologia. Durante 25 anos, atuei nas frentes de Desenvolvimento de Produto ,Gereniamento de Projetos ,Desenvolvimento de fornecedores e Manufatura em industria automobilistica e em 2020 iniciei minha formação na área de tecnologia, para me tornar um .NET Back-end Developer.
-Tenho dedicado meus estudos em HTML,CSS,Java-Script e React  e busco criar uma relação com minhas experiências nas áreas de liderança de pessoas e inovação para alavancar minha transição..
+Engenheira de Produto atuando na liderança de projetos, apoiando no desenvolvimento e lançamento do produto. Desenvolvendo atividades multifuncionais com as áreas de Engenharia, Compras, Logística , Produção e Qualidade .
+
+Responsável pela definição da estratégia do produto e priorização de iniciativas , monitorando métricas táticas e operacionais do produto dando visibilidade para a liderança e incluindo a evolução .
+
+Experiência em gerência de projetos globais, com experiência na metodologia Six Sigma e em ferramentas de qualidade, incluindo processos de melhoria contínua em fornecedores críticos, baseado em Lean Manufacturing.
+
+Em transição de carreira para a área de tecnologia estudando HTML, CSS, JavaScript, React e NodeJs.
 </br>
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danipez2014&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danipez2014&layout=compact=true&theme=highcontrast)](https://github.com/danipez2014/github-readme-stats) 
